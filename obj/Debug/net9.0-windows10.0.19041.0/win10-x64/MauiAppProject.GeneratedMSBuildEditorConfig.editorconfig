@@ -1,0 +1,114 @@
+is_global = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiAppProject
+build_property.ProjectDir = D:\GitHub\ProgMob\MauiAppProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/GitHub/ProgMob/MauiAppProject/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/Controls/AddButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.Controls.AddButton.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\AddButton.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\AddButton.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/Controls/CategoryChart.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.Controls.CategoryChart.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\CategoryChart.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\CategoryChart.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/Controls/ProjectCardView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.Controls.ProjectCardView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\ProjectCardView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\ProjectCardView.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/Controls/TagView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.Controls.TagView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TagView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TagView.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/Controls/TaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.Controls.TaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TaskView.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/ManageMetaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.ManageMetaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ManageMetaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ManageMetaPage.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/ProjectDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectDetailPage.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/ProjectListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.ProjectListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectListPage.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Pages/TaskDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Pages.TaskDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TaskDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TaskDetailPage.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/GitHub/ProgMob/MauiAppProject/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
